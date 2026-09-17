@@ -19,6 +19,8 @@ Me lapela esta bien insano
 ### Jugabilidad
 #### Contenido
 - create
+- Origins
+    - Gods & Heroes Races
 - jurassicrevived
 - Ultris: Boss Expansion
 - minecraft-comes-alive
@@ -70,3 +72,12 @@ Me lapela esta bien insano
 - spell_power
 - structure_pool_api
 - CERBON's API
+- Connector
+- Fabric API
+- Connector extas
+- Icarus forge
+- Resources config
+- Caelus
+- Common Network
+- Curios Api
+- Pehkui
