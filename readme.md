@@ -20,7 +20,7 @@ Me lapela esta bien insano
 - jurassicrevived
 - minecraft-comes-alive
 - RPG Series
-##### Clases
+- - Clases
 - archers
 - paladins & priests
 - rogues & warriors
