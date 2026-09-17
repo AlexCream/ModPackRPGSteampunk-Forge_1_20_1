@@ -22,10 +22,15 @@ legendarymonsters
 - RPG Series
 ##### Clases
 archers
+
 paladins & priests
+
 rogues & warriors
+
 wizards
+
 skill_tree
+
 ##### Objetos
 armory
 arsenal
