@@ -12,12 +12,15 @@ Me lapela esta bien insano
 ##### Monstruos
 - MutantMonsters
 - Luminous Beasts
+- Saint's Dragons
 ##### Jefes
 - legendarymonsters
+- Bosses of mass destruction
 ### Jugabilidad
 #### Contenido
 - create
 - jurassicrevived
+- Ultris: Boss Expansion
 - minecraft-comes-alive
 - RPG Series
     - Clases
@@ -36,7 +39,7 @@ Me lapela esta bien insano
 #### Necesidades
 - ThirstWasTaken
 - appleskin
-### UTILIDAD
+### Utilidad
 - Jade
 - xaerominimap
 - xaeroworldmap
@@ -66,3 +69,4 @@ Me lapela esta bien insano
 - spell_engine
 - spell_power
 - structure_pool_api
+- CERBON's API
