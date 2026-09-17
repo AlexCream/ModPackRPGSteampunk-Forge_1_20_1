@@ -1,0 +1,68 @@
+# RPG INSANO GOGOGO MUCHO CONTENIDO OUYEAOUFUC
+## Descripcion
+Me lapela esta bien insano
+## Mods
+### Mundo
+#### Generacion
+alexscaves
+bettervillage
+#### Entidades
+##### Criaturas
+alexsmobs
+##### Monstruos
+MutantMonsters
+Luminous Beasts
+##### Jefes
+legendarymonsters
+### Jugabilidad
+#### Contenido
+- create
+- jurassicrevived
+- minecraft-comes-alive
+- RPG Series
+##### Clases
+archers
+paladins & priests
+rogues & warriors
+wizards
+skill_tree
+##### Objetos
+armory
+arsenal
+jewelry
+relics
+##### Estructura
+gazebo
+#### Necesidades
+ThirstWasTaken
+appleskin
+### UTILIDAD
+Jade
+xaerominimap
+xaeroworldmap
+jei
+revive_me
+waystones
+### Rendimiento y renderizado
+NoFog
+ferritecore
+lucent
+### Dependencias
+PuzzlesLib
+SmartBrainLib
+architectury
+armor_model_api
+balm
+citadel
+cloth-config
+curios
+geckolib
+invocore
+libraryferret
+player-animation-lib
+puffish_skills
+ranged_weapon_api
+shield_api
+spell_engine
+spell_power
+structure_pool_api
