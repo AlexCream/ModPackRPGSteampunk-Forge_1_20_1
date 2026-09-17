@@ -20,19 +20,19 @@ Me lapela esta bien insano
 - jurassicrevived
 - minecraft-comes-alive
 - RPG Series
-- - Clases
-- archers
-- paladins & priests
-- rogues & warriors
-- wizards
-- skill_tree
-##### Objetos
-- armory
-- arsenal
-- jewelry
-- relics
-##### Estructura
-- gazebo
+ - Clases
+  - archers
+  - paladins & priests
+  - rogues & warriors
+  - wizards
+  - skill_tree
+ - Objetos
+  - armory
+  - arsenal
+  - jewelry
+  - relics
+ - Estructura
+  - gazebo
 #### Necesidades
 - ThirstWasTaken
 - appleskin
