@@ -5,7 +5,11 @@ Me lapela esta bien insano
 ### Mundo
 #### Generacion
 - alexscaves
+- Terralith
+- Better Nether
 - bettervillage
+- Nullscape
+- Moog's End Structures
 #### Entidades
 ##### Criaturas
 - alexsmobs
@@ -19,6 +23,7 @@ Me lapela esta bien insano
 ### Jugabilidad
 #### Contenido
 - create
+- Croptopia
 - Origins
     - Gods & Heroes Races
 - jurassicrevived
@@ -41,6 +46,7 @@ Me lapela esta bien insano
 #### Necesidades
 - ThirstWasTaken
 - appleskin
+- Room for two
 ### Utilidad
 - Jade
 - xaerominimap
@@ -48,10 +54,13 @@ Me lapela esta bien insano
 - jei
 - revive_me
 - waystones
+- Sophisticated Backpacks
 ### Rendimiento y renderizado
 - NoFog
 - ferritecore
 - lucent
+- Chunky
+- Oculus
 ### Dependencias
 - PuzzlesLib
 - SmartBrainLib
@@ -82,3 +91,9 @@ Me lapela esta bien insano
 - Curios Api
 - Pehkui
 - CerbonsAPI
+- Epherolib
+- SophisticatedCore
+- Mog Structure Lib
+- BClib
+- Wunderlib
+- Embedium
