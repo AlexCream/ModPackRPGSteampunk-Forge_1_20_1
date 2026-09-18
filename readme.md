@@ -49,6 +49,7 @@ Me lapela esta bien insano
 - Room for two
 ### Utilidad
 - Jade
+- Better Combat
 - xaerominimap
 - xaeroworldmap
 - jei
