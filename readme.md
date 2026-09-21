@@ -43,18 +43,23 @@ Me lapela esta bien insano
         - relics
     - Estructura
         - gazebo
+#### Combate
+- Critical Strike
+- Dungeon Difficulty
+- Better Combat
+- Combat Roll
 #### Necesidades
 - ThirstWasTaken
 - appleskin
 - Room for two
 ### Utilidad
 - Jade
-- Better Combat
 - xaerominimap
 - xaeroworldmap
 - jei
 - revive_me
 - waystones
+- GraveStones 
 - Sophisticated Backpacks
 ### Rendimiento y renderizado
 - NoFog
@@ -62,6 +67,9 @@ Me lapela esta bien insano
 - lucent
 - Chunky
 - Oculus
+- Canary
+- ModernFix
+- Entity Culling
 ### Dependencias
 - PuzzlesLib
 - SmartBrainLib
